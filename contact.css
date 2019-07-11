@@ -1,7 +1,10 @@
 
 body{
-	color: white;
-	background-color: grey;
+	color: black;
+	background-color: pink;
+	border-color: white;
+  
+  
 }
 .contact{
 	padding-right:90px;
@@ -13,10 +16,16 @@ body{
   background-color: white;
   border-radius: 40px;
   border-right: 20px;
-
-
+  color: green;
 }
 h1{
 	text-align: center;
 	font-size: 50px;
+	 border-width: 30px;
+  border-color: white;
+  background-color: white;
+  border-radius: 40px;
+  border-right: 20px;
+  color: black;
+}
 }
